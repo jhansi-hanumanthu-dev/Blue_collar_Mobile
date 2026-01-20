@@ -1,3 +1,4 @@
+
 📱 Naukri Blue-Collar Mobile Application (React Native)
 🔍 Overview
 
@@ -31,3 +32,7 @@ npx react-native run-android
 ![JobList](src/assets//JobList.png)
 ![JobDetails](src/assets//JobDetails.png)
 ![JobApplicationStatusAlert](src/assets//JobApplication_Status.png)
+=======
+# Blue_collar_Mobile
+App is designed to help blue-collar workers find job opportunities
+>>>>>>> ab8467c3841bfa5cb90b68e5d1d622391fdd114b
